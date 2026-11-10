@@ -4,8 +4,8 @@ import ExerciseCard from "../../components/ExerciseCard/ExerciseCard";
 import LungsSymbol from "../../assets/lungs.png";
 import BrainSymbol from "../../assets/brain.png";
 import MeditationSymbol from "../../assets/meditation.png";
-
 import HeartSymbol from "../../assets/heart.png";
+import { FiInfo } from "react-icons/fi";
 
 function LandingPage() {
   return (
@@ -81,6 +81,24 @@ function LandingPage() {
             right or wrong way - just what helps you.
           </p>
         </div>
+      </section>
+      <section className={styles.disclaimer}>
+        <h3>
+          <FiInfo size={18} aria-hidden="true" />
+          <>A gentle reminder</>
+        </h3>
+
+        <p>
+          These exercises are intended for relaxation and general wellbeing.
+          They are not a substitute for professional medical advice or mental
+          health treatment.
+        </p>
+
+        <p>
+          If you feel dizzy or uncomfortable during a breathing exercise, stop
+          and return to your natural breathing. Consult a healthcare
+          professional if you have concerns.
+        </p>
       </section>
     </>
   );
