@@ -32,9 +32,9 @@ This project is also a way for me to explore how thoughtful UI, animation, and s
 
 ---
 
-## Screenshot
+## Demo
 
-![Just Breathe screenshot](./assets/screenshot.png)
+![Box breathing exercise demonstration](src/assets/box-breathing-demo.gif)
 
 ---
 
