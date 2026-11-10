@@ -34,7 +34,7 @@ This project is also a way for me to explore how thoughtful UI, animation, and s
 
 ## Demo
 
-![Box breathing exercise demonstration](assets/box-breathing-demo.gif)
+![Box breathing exercise demonstration](src/assets/box-breathing-demo.gif)
 
 ---
 
