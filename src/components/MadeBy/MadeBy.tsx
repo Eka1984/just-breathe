@@ -9,7 +9,7 @@ export default function MadeBy() {
         target="_blank"
         rel="noreferrer"
       >
-        Ekaterina Korzneva
+        Eka1984
       </a>
     </div>
   );
